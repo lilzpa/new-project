@@ -1,5 +1,5 @@
 # Datacamp: Naïve Bees Image Loading and Processing
-## Project Description [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lilzpa / new-project/master?labpath=notebook.ipynb)
+## Project Description [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lilzpa/new-project/main?labpath=notebook.ipynb)
 <p><img src="https://s3.amazonaws.com/assets.datacamp.com/production/project_374/img/honey.jpg" alt="honey bee">
 <em>A honey bee.</em></p>
 <p>The question at hand is: can a machine identify a bee as a honey bee or a bumble bee? These bees have different <a href="http://bumblebeeconservation.org/about-bees/faqs/honeybees-vs-bumblebees/">behaviors and appearances</a>, but given the variety of backgrounds, positions, and image resolutions it can be a challenge for machines to tell them apart.</p>
