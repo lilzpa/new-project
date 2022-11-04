@@ -1,4 +1,4 @@
-# Datacamp: Naïve Bees Image Loading and Processing
+# Mini-Project: Naïve Bees Image Loading and Processing
 ## Project Description [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lilzpa/new-project/main?labpath=notebook.ipynb)
 <p><img src="https://extension.missouri.edu/media/wysiwyg/Extensiondata/Pub/images/m00403_fig01.jpg" alt="honey bee">
 <em>A honey bee.</em></p>
