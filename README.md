@@ -30,3 +30,11 @@
 - numpy
 - matplotlib
 - pathlib 
+
+
+## Conclusion
+<p>Machine Learning (ML) has become one of most widely used AI techniques for several companies, institutions and individuals who are in the business of automation. This is because of considerable improvements in the access to data and increases in computational power, which allow practitioners to achieve meaningful results across several areas.
+
+Today, when it comes to image data, ML algorithms can interpret images the same way our brains do. These are used almost everywhere, right from face recognition while capturing images on our smartphones, automating tedious manual work, self-driving cars and everything in between.
+
+In this blog, we'll be deep-diving into machine learning image processing fundamentals and discuss various technologies that we could leverage to build state-of-the-art algorithms on image data.</p>
